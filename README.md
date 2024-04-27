@@ -171,4 +171,4 @@ python GRL2prover9.py
 
 python propositional_reasoning.py
 ```
-Please create an issue or contact me(https://zhouhaosun.github.io/) for any clarifications or suggestions.
+Please create an issue or contact me (https://zhouhaosun.github.io/) for any clarifications or suggestions.
